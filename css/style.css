@@ -19,6 +19,7 @@ body{
     width: 100%;
 }
 
+/* Images are placeholders and are not mine */
 .hero-left {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1534400984015-ec242122bc65");
     background-position: center;
