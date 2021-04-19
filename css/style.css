@@ -60,6 +60,17 @@ body{
     padding: 20px;
     border: 5px solid white;
     letter-spacing: 10px;
+}
+
+.fab {
+    color: white;
+    padding: 15px;
+    margin: 2px;
+    font-size: 25px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
 
 @media screen and (min-width:768px)
 {
