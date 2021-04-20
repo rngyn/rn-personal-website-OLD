@@ -20,7 +20,7 @@ body{
 }
 
 .hero-left {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1534400984015-ec242122bc65");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/hero-left.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,7 +28,7 @@ body{
 }
 
 .hero-centre {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1613047880926-105f6e0662ec");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/hero-centre.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,7 +36,7 @@ body{
 }
 
 .hero-right {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1613755340012-170e864dfe02");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/hero-right.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,15 +44,15 @@ body{
 }
 
 .hero-left:hover {
-    background-image: url("https://images.unsplash.com/photo-1534400984015-ec242122bc65");
+    background-image: url("../img/hero-left.jpg");
 }
 
 .hero-centre:hover {
-    background-image: url("https://images.unsplash.com/photo-1613047880926-105f6e0662ec");
+    background-image: url("../img/hero-centre.jpg");
 }
 
 .hero-right:hover {
-    background-image: url("https://images.unsplash.com/photo-1613755340012-170e864dfe02");
+    background-image: url("../img/hero-right.jpg");
 }
 
 .hero-text {
