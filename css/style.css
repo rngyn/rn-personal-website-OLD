@@ -65,12 +65,18 @@ html, body {
     border-radius: 8px;
 }
 
+.project {
+    padding-bottom: 50px;
+}
+
 .projects {
     text-align: end;
 }
 
 .projects img {
     border-radius: 8px;
+    width: 350px;
+    height: auto;
 }
 
 .projects-text a {
