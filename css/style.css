@@ -75,7 +75,7 @@ html, body {
 
 .projects img {
     border-radius: 8px;
-    width: 350px;
+    width: 100%;
     height: auto;
 }
 
@@ -122,7 +122,7 @@ h1 {
     padding-bottom: 30px;
 }
 
-@media only screen and (max-width: 590px) {
+@media only screen and (max-width: 575px) {
 
     .nav-bar {
         padding-top: 30px;
@@ -150,6 +150,18 @@ h1 {
     }
 
     .nav-links li {
-        padding-left: 10px;
+        padding-left: 15px;
+    }
+
+    .bio {
+        padding-top: 15px;
+    }
+
+    .projects {
+        text-align: center;
+    }
+
+    .projects-text h4 {
+        padding-top: 15px;
     }
 }
